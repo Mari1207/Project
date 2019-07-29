@@ -1,0 +1,13 @@
+C:\Developping\my project\my project\obj\Debug\my_project.Login.resources
+C:\Developping\my project\my project\obj\Debug\my_project.Form1.resources
+C:\Developping\my project\my project\obj\Debug\my_project.RoomCondition.resources
+C:\Developping\my project\my project\obj\Debug\my_project.RoomReservation.resources
+C:\Developping\my project\my project\obj\Debug\my_project.Properties.Resources.resources
+C:\Developping\my project\my project\obj\Debug\my project.csproj.GenerateResource.cache
+C:\Developping\my project\my project\obj\Debug\my project.csproj.CoreCompileInputs.cache
+C:\Developping\my project\my project\bin\Debug\my project.exe.config
+C:\Developping\my project\my project\bin\Debug\my project.exe
+C:\Developping\my project\my project\bin\Debug\my project.pdb
+C:\Developping\my project\my project\obj\Debug\my project.exe
+C:\Developping\my project\my project\obj\Debug\my project.pdb
+C:\Developping\my project\my project\obj\Debug\my project.csprojAssemblyReference.cache
